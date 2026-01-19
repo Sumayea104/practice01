@@ -1,0 +1,30 @@
+.inline{
+    display: flex;
+    align-items: center;
+    padding: auto;
+    gap: 10px;
+    width: fit-content;
+    margin-right: 10px;
+    font-size: 20px;
+    /* background-color: #b91212; */
+
+}
+
+.inline h3{
+    margin: 0px;
+    font-size: 18px;
+}
+
+.btn{
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #14c52c;
+}
+
+#search{
+    border-radius: 5px;
+    padding: 10px 30px 10px 10px;
+    background-color: #adbb33;
+    font-size: 16px;
+}
